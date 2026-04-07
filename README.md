@@ -1,2 +1,4 @@
-- Estudante de Sistemas de Informarmação dedicado à construção de softwares eficientes. Conhecimentos em C++, Java, PHP e MySql. Atualmente aprimorando conhecimentos no desenvolvimento web JavaScript, CSS e Html.
-- 
+- Estudante de Sistemas de Informação dedicado à construção de softwares eficientes.
+- Conhecimentos em C++, Java, PHP, Python e MySql. 
+- Atualmente aprimorando conhecimentos no desenvolvimento web JavaScript, CSS e Html.
+- Buscando produzir a inovação a cada dia
